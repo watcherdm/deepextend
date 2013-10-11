@@ -1,0 +1,8 @@
+{
+  "name": "underscore.deepextend",
+  "version": "0.0.0",
+  "description": "a simple deepextend implementation",
+  "dependencies": {
+    "underscore": "latest"
+  }
+}
