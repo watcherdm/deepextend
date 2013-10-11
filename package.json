@@ -1,0 +1,15 @@
+{
+  "name": "_.deepExtend",
+  "repository": "https://github.com/webspinner/deepextend",
+  "version": "0.0.0",
+  "description": "really, we need this and it's 2013",
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "devDependencies": {
+    "jasmine-node": "latest"
+  },
+  "scripts" : {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  }
+}
